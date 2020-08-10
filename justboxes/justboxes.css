@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+.main-header{
+    border: 3px solid blue;
+   
+}
+.main-header div {
+    border: 2px solid purple;
+    display: inline-block;
+    
+   
+}
+.main-nav{
+    border: 3px solid orange;
+    display: inline-block;
+
+}
+.main-nav__item{
+    border: 2px solid green;
+    display: inline-block;
+}
+.main-nav__items{
+    border: 2px solid red;
+}
